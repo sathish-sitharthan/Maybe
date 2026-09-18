@@ -1,4 +1,1 @@
-"AadClientId": "633bf33d-d950-497b-9114-a7d32c44dbf0", 
-"AadSecret": "2x38Q~Y-4r8eL.hFcDlaC4KgjGV.gjBTunLskdvw", 
-"AadTenantDomain": "scbdev.onmicrosoft.com", 
-"AadTenantId": "cd823f6b-31c5-4241-b504-3707cbc03fb7"
+
