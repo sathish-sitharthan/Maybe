@@ -1,0 +1,4 @@
+"AadClientId": "5e582cf3-a194-46c3-9e4a-252869632a9c",
+"AadSecret": "S8O8Q~R4pwK.2Rdl_XVlzDUiJOlI_NUFWHnZUap.",
+"AadTenantDomain": "StandardCharteredBank.onmicrosoft.com",
+"AadTenantId": "b44900f1-2def-4c3b-9ec6-9020d604e19e"
